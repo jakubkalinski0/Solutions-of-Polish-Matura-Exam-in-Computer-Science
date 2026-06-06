@@ -1,0 +1,20 @@
+A
+Więcej niż 50% uczniów odpowiedziało dobrze na pytania o numerach: 2,9,12,18,19,20,22.
+
+B
+Liczba uczniów, którzy uzyskali wyniki powyżej średniej: 55
+
+C
+Liczba uczniów którzy uzyskali oceny bardzo dobre: 1
+Liczba uczniów którzy uzyskali oceny niedostateczne: 6
+
+D
+Numery uczniów, którzy odpowiedzieli dobrze na pytania nr.5,15,25: 2,45,65,70,79
+
+E
+Epoka			Liczba poprawnych odpowiedzi
+Prehistoria 		278
+Starożytność 		263
+Średniowiecze 		281
+Historia nowożytna 	320
+Historia najnowsza 	298
