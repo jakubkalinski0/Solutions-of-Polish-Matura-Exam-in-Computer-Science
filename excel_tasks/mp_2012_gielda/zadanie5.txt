@@ -1,0 +1,25 @@
+A
+Końcowa cena akcji każdej firmy po 400 dniach wynosi:
+Firma	Cena
+A	221
+B	117
+C	198
+
+B
+Najwyższa i najniższa cena akcji każdej firmy w czasie 400 dni wynosi:
+Firma	Max. cena	Min. cena
+A	264		167
+B	210		62
+C	223		97
+
+D
+Liczba krachów giełdowych:
+6
+Ceny akcji wszystkich firm w momencie ostatniego krachu:
+Firma	Cena
+A	224
+B	163
+C	194
+
+E
+W 400 dni rekord firmy A zmienił się 14 razy.
