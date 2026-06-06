@@ -1,0 +1,20 @@
+ZAD 4.1
+WIERSZE:
+0
+15
+27
+42
+55
+90
+99
+KOLUMNY:
+0
+81
+92
+199
+ZAD 4.2
+Dlugosc najdluzszego ciagu: 10
+Najdluzszy ciag: qqqqqqqqqq
+Wiersze, w ktorych sa te ciagi: 62, 72, 
+ZAD 4.3
+Wysokosc: 13 Szerokosc:2 Wiersz lewego rogu: 71 Kolumna lewego rogu: 102
