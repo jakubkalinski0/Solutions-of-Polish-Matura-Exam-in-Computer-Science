@@ -1,0 +1,4 @@
+ZAD 4.1
+Liczba slow, ktore sa palindromami: 1004
+ZAD 4.2
+Liczba rodzin w pliku: 197
